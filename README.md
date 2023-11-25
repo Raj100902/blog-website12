@@ -1,5 +1,5 @@
 # Blogging Website
-*For **Hacktoberfest** please refer [Contributing.md](https://github.com/Prashant0664/Blog-website/blob/master/CONTRIBUTING.md)* <br/>
+*For **Hacktoberfest** please refer [Contributing.md](https://github.com/Raj100902/Blog-website/blob/master/CONTRIBUTING.md)* <br/>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +21,7 @@ Welcome to the Blogging Website project! This is a web application built using t
 ---
 ## Demo
 
-https://github.com/Prashant0664/Blog-website/assets/98750053/d762e07b-2282-4a9e-9dde-30f5a322c6a1
+https://github.com/Raj100902/Blog-website/assets/98750053/d762e07b-2282-4a9e-9dde-30f5a322c6a1
 
 ---
 
@@ -70,10 +70,10 @@ Before you begin, make sure you have the following installed on your system:
 - Git
 
 ### Installation
-(Request: **Please Star⭐️ the Repo or follow [github](https://github.com/Prashant0664/) if you find this project interesting😁!** <br/>)
+
 1. Clone this GitHub repository to your local machine:
    ```
-   git clone https://github.com/prashant0664/blog-website.git
+   git clone https://github.com/Raj100902/blog-website.git
    ```
 
 2. Change into the project directory:
@@ -117,7 +117,7 @@ You can now use the Blogging Website to create, share, and discover blogs, proje
 ---
 
 ## Contributing
-**Please Star⭐️ the Repo or follow [github](https://github.com/Prashant0664/) if you find this project interesting😁!** <br/>
+
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
