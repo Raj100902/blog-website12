@@ -9,7 +9,7 @@ const checkotpv=async(req,res)=>{
         const { mail, otp } = req.body;
         const data = await Verify.findOne({ mail: mail });
         if (data) {
-            if(data.otp==otp){
+            if(data.otp!=otp){
                 return res.status(200).json({ msg: "ok" });
             }
             else{
