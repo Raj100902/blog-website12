@@ -1,5 +1,5 @@
 # Blogging Website
-*For **Hacktoberfest** please refer [Contributing.md](https://github.com/Raj100902/Blog-website/blob/master/CONTRIBUTING.md)* <br/>
+*For **Hacktoberfest** please refer [Contributing.md](https://github.com/Raj100902/Blog-website12/blob/master/CONTRIBUTING.md)* <br/>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,7 +21,7 @@ Welcome to the Blogging Website project! This is a web application built using t
 ---
 ## Demo
 
-https://github.com/Raj100902/Blog-website/assets/98750053/d762e07b-2282-4a9e-9dde-30f5a322c6a1
+https://github.com/Raj100902/Blog-website12/assets/98750053/d762e07b-2282-4a9e-9dde-30f5a322c6a1
 
 ---
 
@@ -73,7 +73,7 @@ Before you begin, make sure you have the following installed on your system:
 
 1. Clone this GitHub repository to your local machine:
    ```
-   git clone https://github.com/Raj100902/blog-website.git
+   git clone https://github.com/Raj100902/blog-website12.git
    ```
 
 2. Change into the project directory:
